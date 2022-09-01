@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac80d2b8.css",
-    "main.js": "/static/js/main.e9f32f9c.js",
-    "static/media/CyberTEK-Solutions-LLC transparent.png": "/static/media/CyberTEK-Solutions-LLC transparent.aee23a090c1997a0e2b5.png",
-    "static/media/instagram.svg": "/static/media/instagram.27ff105b2d013ad78632d0ebdc7203e5.svg",
-    "index.html": "/index.html",
-    "main.ac80d2b8.css.map": "/static/css/main.ac80d2b8.css.map",
-    "main.e9f32f9c.js.map": "/static/js/main.e9f32f9c.js.map"
+    "main.css": "./static/css/main.ac80d2b8.css",
+    "main.js": "./static/js/main.9ffd7a69.js",
+    "static/media/CyberTEK-Solutions-LLC transparent.png": "./static/media/CyberTEK-Solutions-LLC transparent.aee23a090c1997a0e2b5.png",
+    "static/media/instagram.svg": "./static/media/instagram.27ff105b2d013ad78632d0ebdc7203e5.svg",
+    "index.html": "./index.html",
+    "main.ac80d2b8.css.map": "./static/css/main.ac80d2b8.css.map",
+    "main.9ffd7a69.js.map": "./static/js/main.9ffd7a69.js.map"
   },
   "entrypoints": [
     "static/css/main.ac80d2b8.css",
-    "static/js/main.e9f32f9c.js"
+    "static/js/main.9ffd7a69.js"
   ]
 }
