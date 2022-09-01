@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "./static/css/main.ac80d2b8.css",
-    "main.js": "./static/js/main.9ffd7a69.js",
+    "main.js": "./static/js/main.3617e5c6.js",
+    "static/media/video2.mp4": "./static/media/video2.95299644387ce10200af.mp4",
+    "static/media/uwvideo.mp4": "./static/media/uwvideo.14baa5d7cb950d5c8851.mp4",
+    "static/media/video1.mp4": "./static/media/video1.54e3d5f483a458aa5dfe.mp4",
     "static/media/CyberTEK-Solutions-LLC transparent.png": "./static/media/CyberTEK-Solutions-LLC transparent.aee23a090c1997a0e2b5.png",
     "static/media/instagram.svg": "./static/media/instagram.27ff105b2d013ad78632d0ebdc7203e5.svg",
     "index.html": "./index.html",
     "main.ac80d2b8.css.map": "./static/css/main.ac80d2b8.css.map",
-    "main.9ffd7a69.js.map": "./static/js/main.9ffd7a69.js.map"
+    "main.3617e5c6.js.map": "./static/js/main.3617e5c6.js.map"
   },
   "entrypoints": [
     "static/css/main.ac80d2b8.css",
-    "static/js/main.9ffd7a69.js"
+    "static/js/main.3617e5c6.js"
   ]
 }
