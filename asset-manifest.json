@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.ac80d2b8.css",
-    "main.js": "./static/js/main.ea69761d.js",
+    "main.css": "./static/css/main.4234e8ac.css",
+    "main.js": "./static/js/main.a9145b65.js",
     "static/media/video2.mp4": "./static/media/video2.95299644387ce10200af.mp4",
+    "static/media/security.mp4": "./static/media/security.a189bc48502c4b5b213f.mp4",
+    "static/media/wan.mp4": "./static/media/wan.436bea8a850f95152f20.mp4",
     "static/media/uwvideo.mp4": "./static/media/uwvideo.14baa5d7cb950d5c8851.mp4",
-    "static/media/video1.mp4": "./static/media/video1.54e3d5f483a458aa5dfe.mp4",
+    "static/media/fiveg.mp4": "./static/media/fiveg.b97143cb93bcca726dc5.mp4",
+    "static/media/cloud.mp4": "./static/media/cloud.780fb72bc89b506c5446.mp4",
+    "static/media/home.mp4": "./static/media/home.19fcd6ab6e8d32380969.mp4",
+    "static/media/wireless.mp4": "./static/media/wireless.e8a3cbde5b64326fabce.mp4",
+    "static/media/patners.mp4": "./static/media/patners.624184ad79862f89462b.mp4",
+    "static/media/networking.mp4": "./static/media/networking.6b4175d753c8958e9492.mp4",
+    "static/media/iot.mp4": "./static/media/iot.f8a21ea2bfa4091d8918.mp4",
     "static/media/CyberTEK-Solutions-LLC transparent.png": "./static/media/CyberTEK-Solutions-LLC transparent.aee23a090c1997a0e2b5.png",
     "static/media/instagram.svg": "./static/media/instagram.27ff105b2d013ad78632d0ebdc7203e5.svg",
     "index.html": "./index.html",
-    "main.ac80d2b8.css.map": "./static/css/main.ac80d2b8.css.map",
-    "main.ea69761d.js.map": "./static/js/main.ea69761d.js.map"
+    "main.4234e8ac.css.map": "./static/css/main.4234e8ac.css.map",
+    "main.a9145b65.js.map": "./static/js/main.a9145b65.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac80d2b8.css",
-    "static/js/main.ea69761d.js"
+    "static/css/main.4234e8ac.css",
+    "static/js/main.a9145b65.js"
   ]
 }
